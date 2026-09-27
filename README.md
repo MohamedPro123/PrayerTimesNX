@@ -20,6 +20,8 @@ Planned updates:
 - An actual, nice looking more functional GUI using Borealis
 - Potentially a sys-module that can give you notifications in-game?
 - HB App Store release (once I believe the app is good enough)
+- More languages, such as Urdu, Bengali, Turkish, Persian, Kurdish, Uzbek, and Arabic, right now they are not here because the console font used is CP437, which supports only Latin characters.
+
 
  ![background](https://i.postimg.cc/C1twYZJ4/2026092612174100-5DFDD0B600DAC7776C1ED0D78CC712D5.jpg)
  ![background](https://i.postimg.cc/C1twYZJb/2026092612181500-5DFDD0B600DAC7776C1ED0D78CC712D5.jpg)
@@ -31,6 +33,7 @@ Planned updates:
 # Full features list ▶
 - ~480 built-in offline cities in many majority Muslim and non-majority Muslim places browsable and alphabetized
 - Type-to-filter (Y), page jump (L/R), jump-to-next-letter (ZL/ZR) for navigating the list
+- 6 supported Languages - English, Indonesian, French, Spanish, German, Portugese
 - Search any place worldwide online (free-text address lookup via Aladhan API)
 - Enter custom coordinates by hand (lat/lon + manual UTC offset) — works fully offline
 - Save any location (city, custom coordinates, or a searched address) under a name for instant reuse later
